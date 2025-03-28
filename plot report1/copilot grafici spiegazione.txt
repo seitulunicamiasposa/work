@@ -1,0 +1,41 @@
+Grafico 1: Distribuzione delle diagnosi alla baseline (DX_bl) per stato civile
+Descrizione
+Asse X: Stato civile dei partecipanti (Divorced, Married, Never married, Unknown, Widowed).
+Asse Y: Numero di partecipanti.
+Barre impilate: Ogni barra rappresenta una combinazione di stato civile, con segmenti che mostrano la distribuzione delle diagnosi alla baseline:
+AD: Alzheimer’s Disease (blu scuro).
+CN: Cognitivamente Normale (viola).
+EMCI: Early Mild Cognitive Impairment (rosa).
+LMCI: Late Mild Cognitive Impairment (arancione).
+SMC: Significant Memory Concern (giallo).
+Osservazioni
+Married: La maggior parte dei partecipanti è sposata. Tra questi, c'è una distribuzione significativa di diagnosi CN, EMCI, LMCI, e SMC. La diagnosi AD è presente ma meno frequente rispetto ad altre diagnosi.
+Divorced: I partecipanti divorziati mostrano una distribuzione di diagnosi simile, ma in numero molto inferiore rispetto ai partecipanti sposati.
+Never married: I partecipanti mai sposati hanno una distribuzione di diagnosi simile, ma in numero molto inferiore.
+Widowed: I partecipanti vedovi mostrano una distribuzione di diagnosi simile, con una presenza significativa di CN, EMCI, LMCI, e SMC.
+Unknown: Pochi partecipanti con stato civile sconosciuto.
+Grafico 2: Distribuzione delle diagnosi correnti (DX) per stato civile
+Descrizione
+Asse X: Stato civile dei partecipanti (Divorced, Married, Never married, Unknown, Widowed).
+Asse Y: Numero di partecipanti.
+Barre impilate: Ogni barra rappresenta una combinazione di stato civile, con segmenti che mostrano la distribuzione delle diagnosi correnti:
+CN: Cognitivamente Normale (viola).
+Dementia: Demenza (verde acqua).
+MCI: Mild Cognitive Impairment (giallo).
+Osservazioni
+Married: La maggior parte dei partecipanti è sposata. Tra questi, c'è una distribuzione significativa di diagnosi CN, MCI, e Dementia. La diagnosi MCI è la più frequente.
+Divorced: I partecipanti divorziati mostrano una distribuzione di diagnosi simile, ma in numero molto inferiore rispetto ai partecipanti sposati.
+Never married: I partecipanti mai sposati hanno una distribuzione di diagnosi simile, ma in numero molto inferiore.
+Widowed: I partecipanti vedovi mostrano una distribuzione di diagnosi simile, con una presenza significativa di CN, MCI, e Dementia.
+Unknown: Pochi partecipanti con stato civile sconosciuto.
+Confronto tra i due grafici
+Progressione della malattia
+Married: La distribuzione delle diagnosi correnti mostra un aumento significativo delle diagnosi di MCI e Dementia rispetto alla baseline, indicando una progressione della malattia tra i partecipanti sposati.
+Divorced, Never married, Widowed: Anche in questi gruppi, si osserva un aumento delle diagnosi di MCI e Dementia rispetto alla baseline, ma il numero totale di partecipanti è molto inferiore rispetto ai partecipanti sposati.
+Effetto dello stato civile
+Supporto sociale: I partecipanti sposati sembrano avere una maggiore prevalenza di diagnosi CN alla baseline, suggerendo un possibile effetto protettivo del supporto sociale. Tuttavia, la progressione verso MCI e Dementia è evidente nel tempo.
+Isolamento sociale: I partecipanti divorziati, mai sposati e vedovi mostrano una distribuzione simile, ma con un numero inferiore di partecipanti. La progressione della malattia è evidente anche in questi gruppi.
+Conclusioni
+Stato civile e diagnosi: Lo stato civile sembra influenzare la distribuzione delle diagnosi, con i partecipanti sposati che mostrano una maggiore prevalenza di diagnosi CN alla baseline e una progressione significativa verso MCI e Dementia nel tempo.
+Supporto sociale: Il supporto sociale potrebbe avere un effetto protettivo iniziale, ma la progressione della malattia è evidente in tutti i gruppi di stato civile.
+Se hai ulteriori domande o osservazioni specifiche sui grafici, fammi sapere!
